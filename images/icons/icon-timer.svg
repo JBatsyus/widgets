@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 2087328432">
+<rect width="40" height="40" rx="10" fill="#278AFF" fill-opacity="0.15"/>
+<rect x="0.5" y="0.5" width="39" height="39" rx="9.5" stroke="#278AFF" stroke-opacity="0.15"/>
+<g id="timer">
+<g id="timer_2">
+<path id="Vector" d="M30.2084 21.4583C30.2084 27.0933 25.6351 31.6667 20.0001 31.6667C14.3651 31.6667 9.79175 27.0933 9.79175 21.4583C9.79175 15.8233 14.3651 11.25 20.0001 11.25C25.6351 11.25 30.2084 15.8233 30.2084 21.4583Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="#278AFF"/>
+<path id="Line" d="M20 15.3334V21.1667" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="#A9D6FF"/>
+<path id="Line_2" d="M16.5 8.33337H23.5" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#A9D6FF"/>
+</g>
+</g>
+</g>
+</svg>
